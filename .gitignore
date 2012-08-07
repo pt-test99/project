@@ -1,3 +1,7 @@
 # glob patterns (applied recursively)
 *.log
 *.tmp
+target
+output/
+# exclude a file from wild-card
+!special.log
